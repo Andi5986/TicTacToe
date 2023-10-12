@@ -1,0 +1,14 @@
+/Users/andi/Developer/Training_c/bin/Debug/net7.0/Training_c
+/Users/andi/Developer/Training_c/bin/Debug/net7.0/Training_c.deps.json
+/Users/andi/Developer/Training_c/bin/Debug/net7.0/Training_c.runtimeconfig.json
+/Users/andi/Developer/Training_c/bin/Debug/net7.0/Training_c.dll
+/Users/andi/Developer/Training_c/bin/Debug/net7.0/Training_c.pdb
+/Users/andi/Developer/Training_c/obj/Debug/net7.0/Training_c.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andi/Developer/Training_c/obj/Debug/net7.0/Training_c.AssemblyInfoInputs.cache
+/Users/andi/Developer/Training_c/obj/Debug/net7.0/Training_c.AssemblyInfo.cs
+/Users/andi/Developer/Training_c/obj/Debug/net7.0/Training_c.csproj.CoreCompileInputs.cache
+/Users/andi/Developer/Training_c/obj/Debug/net7.0/Training_c.dll
+/Users/andi/Developer/Training_c/obj/Debug/net7.0/refint/Training_c.dll
+/Users/andi/Developer/Training_c/obj/Debug/net7.0/Training_c.pdb
+/Users/andi/Developer/Training_c/obj/Debug/net7.0/Training_c.genruntimeconfig.cache
+/Users/andi/Developer/Training_c/obj/Debug/net7.0/ref/Training_c.dll
